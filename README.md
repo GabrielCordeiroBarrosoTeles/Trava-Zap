@@ -16,7 +16,7 @@ Este script permite o envio automático de mensagens no WhatsApp Web, definindo 
 
 1. **Baixar os arquivos**  
    Clone ou faça o download do repositório no GitHub para obter os arquivos:  
-   - **`BibliaSagradaSendScript.js`**: muito grande, não é prático colar diretamente no Console do navegador.  
+   - **`BibliaSagradaSendScript.js`**: muito grande, não é prático colar diretamente no GitHub.  
    - **`mensagemPersonalizada.js`**: pode ser visualizado e editado diretamente no GitHub; permite personalizar a mensagem e a quantidade de envios antes de copiar o código.
 
 2. **Abrir em um editor de código**  
