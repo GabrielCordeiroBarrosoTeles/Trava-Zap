@@ -61,4 +61,3 @@ Este script permite o envio automático de mensagens no WhatsApp Web, definindo 
 
 © Gabriel Cordeiro | Abril 2025
 
-
